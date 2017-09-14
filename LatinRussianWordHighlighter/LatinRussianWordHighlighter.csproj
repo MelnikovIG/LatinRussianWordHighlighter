@@ -16,8 +16,8 @@
     <ProjectGuid>{85098F08-5288-4062-B532-36E1ECF6FEB7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VSIXProject1</RootNamespace>
-    <AssemblyName>VSIXProject1</AssemblyName>
+    <RootNamespace>LatinRussianWordHighlighter</RootNamespace>
+    <AssemblyName>LatinRussianWordHighlighter</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>true</IncludeAssemblyInVSIXContainer>
